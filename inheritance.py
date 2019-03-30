@@ -1,3 +1,5 @@
+# This program demonstrates the concept of inheritance
+
 class Parent():
     def __init__(self, last_name, eye_color):
         print("Parent Constructor Called")
